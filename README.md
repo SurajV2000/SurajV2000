@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning **MERN stacks**
 
-- 👨‍💻 All of my projects are available at [https://surajv2000.github.io/](https://surajv2000.github.io/)
-
 - 💬 Ask me about **REACT, REDUX**
 
 - 📫 How to reach me **sv107719@gmail.com**
