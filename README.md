@@ -48,7 +48,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajv2000" alt="surajv2000" /></a> </p>
 
-<p align="center" margin-top="10px"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajv2000&show_icons=true&locale=en&layout=compact" alt="surajv2000" /></p>
+<p align="center" margin="10px"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajv2000&show_icons=true&locale=en&layout=compact" alt="surajv2000" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajv2000&show_icons=true&locale=en" alt="surajv2000" /></p>
 
