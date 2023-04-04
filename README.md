@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/surajv2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="surajv2000" height="30" width="40" /></a>
 <a href="https://twitter.com/surajvi47375188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surajvi47375188" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-vishwakarma-0b7974240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-vishwakarma-0b7974240/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suraj-vishwakarma-0b7974240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-vishwakarma-0b7974240/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/surajv2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="surajv2000" height="30" width="40" /></a>
 <a href="https://instagram.com/s_u_r_a_j_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_u_r_a_j_2000" height="30" width="40" /></a>
 </p>
@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajv2000&show_icons=true&locale=en" alt="surajv2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajv2000&" alt="surajv2000" /></p>
-
