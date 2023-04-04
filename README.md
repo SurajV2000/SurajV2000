@@ -48,8 +48,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajv2000" alt="surajv2000" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajv2000&show_icons=true&locale=en&layout=compact" alt="surajv2000" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajv2000&show_icons=true&locale=en&layout=compact" alt="surajv2000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajv2000&show_icons=true&locale=en" alt="surajv2000" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajv2000&show_icons=true&locale=en" alt="surajv2000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajv2000&" alt="surajv2000" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajv2000&" alt="surajv2000" /></p>
