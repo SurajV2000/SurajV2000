@@ -20,6 +20,8 @@
 
 - 📫 How to reach me **sv107719@gmail.com**
 
+- 📝 Know more about me [https://surajv2000.github.io/](https://surajv2000.github.io/)
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1r_YLnNA391Z50sPD-S8PbPD2jtfYxdOV/view?usp=sharing](https://drive.google.com/file/d/1r_YLnNA391Z50sPD-S8PbPD2jtfYxdOV/view?usp=sharing)
 
  <div align="center">
@@ -32,6 +34,7 @@
 <a href="https://twitter.com/surajvi47375188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surajvi47375188" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/suraj-vishwakarma-0b7974240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-vishwakarma-0b7974240/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/surajv2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="surajv2000" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/suraj.vishwakarma.5477272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suraj.vishwakarma.5477272" height="30" width="40" /></a>
 <a href="https://instagram.com/s_u_r_a_j_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_u_r_a_j_2000" height="30" width="40" /></a>
 </p>
 
