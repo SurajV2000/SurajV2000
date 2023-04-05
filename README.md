@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MERN stacks**
 
-- 💬 Ask me about **REACT, REDUX**
+- 💬 Ask me about **REACT, REDUX, NODE JS, JAVASCRIPT**
 
 - 📫 How to reach me **sv107719@gmail.com**
 
